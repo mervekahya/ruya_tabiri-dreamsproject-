@@ -1,0 +1,2 @@
+Dönüþtürülmüþ Metin: agac araba
+Karakter Listesi: ['a', 'g', 'a', 'c', ' ', 'a', 'r', 'a', 'b', 'a']
